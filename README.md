@@ -4,11 +4,10 @@ I'm **Rahul Kanagaraj**. I'm a Master's student in Computer Science at UC Davis,
 
 - 🤔 I use daily `.cpp`, `.py`, `.go`, `.yaml`
 - 🌱 I'm currently exploring event-driven architectures, LLM-powered systems, and large-scale data platforms
-- 💬 Talk to me about distributed systems, backend engineering, Kubernetes, Cloud infra, and system design
+- 💬 Talk to me about distributed systems, backend engineering, Kubernetes, cloud infra, and system design
 - 😄 Pronouns: he/him
 - 👯 We can connect on [LinkedIn](https://www.linkedin.com/in/rahulkanagaraj) to discuss ideas
 - ⚡ Fun fact: I love building side projects around infra, automation, and real-time data processing
-- 🧮 Page Count: ![](https://komarev.com/ghpvc/?username=rahulkanagaraj786&color=blueviolet)
 
 ---
 
@@ -47,16 +46,6 @@ I'm **Rahul Kanagaraj**. I'm a Master's student in Computer Science at UC Davis,
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rahulkanagaraj786&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
