@@ -51,3 +51,13 @@ I'm **Rahul Kanagaraj**. I'm a Master's student in Computer Science at UC Davis,
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkanagaraj@outlook.com)
 
 </div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkanagaraj786&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
