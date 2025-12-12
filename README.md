@@ -26,7 +26,7 @@ I'm **Rahul Kanagaraj**. I'm a Master's student in Computer Science at UC Davis,
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api?username=rahulkanagaraj786&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook,HTML&langs_count=8&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulkanagaraj786&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook,HTML&langs_count=8&hide_border=true)
 
 </div>
 
