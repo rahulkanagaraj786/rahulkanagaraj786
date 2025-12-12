@@ -8,13 +8,14 @@ I'm **Rahul Kanagaraj**. I'm a Master's student in Computer Science at UC Davis,
 - 😄 Pronouns: he/him
 - 👯 We can connect on [LinkedIn](https://www.linkedin.com/in/rahulkanagaraj) to discuss ideas
 - ⚡ Fun fact: I love building side projects around infra, automation, and real-time data processing
+- 🧮 Page Count: ![](https://komarev.com/ghpvc/?username=rahulkanagaraj786&color=blueviolet)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkanagaraj786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
