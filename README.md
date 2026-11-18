@@ -8,7 +8,7 @@ At **HPE**, my team managed the control plane services for Alletra storage syste
 
 ## Projects
 
-- [Dev2Prod](https://github.com/sanjayb-28/Dev2Prod) — A Kubernetes lab Sanjay Baskaran and I built to test how a service recovers from failures and scales under load.
+- [Dev2Prod](https://github.com/sanjayb-28/Dev2Prod) — A Kubernetes lab built to test how a service recovers from failures and scales under load.
 - [ResMCP](https://github.com/apache/resilientdb/tree/master/ecosystem/ai-tools/mcp/resilientdb-mcp) — A Model Context Protocol server I co-built for Apache ResilientDB. It lets AI agents submit transactions and read or write key-value data.
 - [MCPShield](https://github.com/rahulkanagaraj786/mcp-security-analysis) — A security layer that checks which files and plugins an MCP client or server can access.
 - [LLM routing study](https://github.com/rahulkanagaraj786/llm-routing-study) — A study of when a prompt can go to Gemini Flash instead of GPT-5, and what that choice costs in dollars and accuracy.
