@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="214" viewBox="0 0 1000 214" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Kanagaraj · Software engineer</title>
+  <desc id="desc">Distributed systems and cloud infrastructure. A stack of three circuit boards is drawn in copper and teal.</desc>
+  <defs>
+    <linearGradient id="ink" x2="1" y2=".35" gradientUnits="objectBoundingBox">
+      <stop stop-color="#10262c"/>
+      <stop offset="1" stop-color="#15393c"/>
+    </linearGradient>
+    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#9fbcb4" opacity=".30"/>
+    </pattern>
+    <g id="board" stroke-linejoin="round" stroke-width="1.45">
+      <path d="M-94 2 0-39 94 2 94 10 0 51-94 10Z" fill="#173d40" stroke="#81a7a1"/>
+      <path d="M-94 2 0 43 94 2 0-39Z" fill="#265355" stroke="#aecbc3"/>
+      <path d="M0 43v8" stroke="#81a7a1"/>
+    </g>
+  </defs>
+  <rect width="1000" height="214" rx="10" fill="url(#ink)"/>
+  <svg x="625" width="375" height="214" viewBox="0 0 375 214" aria-hidden="true">
+    <rect x="8" y="8" width="359" height="198" fill="url(#dots)"/>
+    <g fill="none" stroke="#54807b" stroke-width="1">
+      <path d="m5 154 47-20h42l28-12m108 27 38 17h49l39 17M246 77l31-14h39l44-19"/>
+      <path d="m42 55 38 17h24l35 15m87 81 40 18h40" stroke-dasharray="3 4"/>
+    </g>
+    <g transform="translate(187 121)"><use xlink:href="#board"/></g>
+    <g transform="translate(187 100)"><use xlink:href="#board"/></g>
+    <g transform="translate(187 78)">
+      <use xlink:href="#board"/>
+      <path d="m-90 2 90 39L90 2 0-37Z" fill="#193c3f" stroke="#e6bd89" stroke-width="2"/>
+      <g fill="none" stroke="#a0c5b7" stroke-width="1.3">
+        <path d="m-61 3 25-11 15 7 15-7M-51 9l20-9 16 7 12-5M-11 18l19-9 15 7 25-11M0 23l22-10"/>
+        <path d="m1-22 17 8 13-6M11-5l14 6 21-9 13 6"/>
+      </g>
+      <path d="m-16-2 16-7 17 7-17 7Z" fill="#e7b982"/>
+      <g fill="#e7b982"><circle cx="-61" cy="3" r="2.3"/><circle cx="1" cy="-22" r="2.3"/><circle cx="59" cy="-2" r="2.3"/></g>
+    </g>
+    <g fill="#e7b982"><circle cx="52" cy="134" r="2.6"/><circle cx="317" cy="166" r="2.6"/></g>
+  </svg>
+  <path d="M50 51h26" stroke="#edbd88" stroke-width="3"/>
+  <text x="88" y="56" fill="#edc797" font-family="Menlo, Consolas, monospace" font-size="15" letter-spacing="2.5">SOFTWARE ENGINEER</text>
+  <text x="47" y="132" fill="#fbf4e8" font-family="Georgia, 'Times New Roman', serif" font-size="73" letter-spacing="-3">Rahul Kanagaraj</text>
+  <text x="51" y="172" fill="#c9dcd3" font-family="Arial, Helvetica, sans-serif" font-size="23">Distributed systems &amp; cloud infrastructure</text>
+</svg>
