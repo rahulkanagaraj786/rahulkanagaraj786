@@ -1,53 +1,33 @@
-### Hi there 👋
+![Rahul Kanagaraj — Software engineer working on distributed systems and cloud infrastructure](./profile-header.svg)
 
-I'm **Rahul Kanagaraj**. I'm a Master's student in Computer Science at UC Davis, aiming to build high-performance distributed systems and scalable backend platforms. As a backend and systems engineer, I have worked extensively with C++, Golang, Python, Kubernetes, Kafka, and Cloud-native architectures. I previously worked at **Hewlett Packard Enterprise** on building 0-to-1 distributed cloud storage products. Feel free to connect with me here:
+I work on private cloud infrastructure at **Platform9** while pursuing an M.S. in Computer Science at **UC Davis**. Before that, I built storage services at **HPE**. I’m particularly interested in how clusters behave during upgrades, under load, and when a node goes down.
 
-- 🤔 I use daily `.cpp`, `.py`, `.go`, `.yaml`
-- 🌱 I'm currently exploring event-driven architectures, LLM-powered systems, and large-scale data platforms
-- 💬 Talk to me about distributed systems, backend engineering, Kubernetes, cloud infra, and system design
-- 😄 Pronouns: he/him
-- 👯 We can connect on [LinkedIn](https://www.linkedin.com/in/rahulkanagaraj) to discuss ideas
-- ⚡ Fun fact: I love building side projects around infra, automation, and real-time data processing
-- 🧮 Page Count: ![](https://komarev.com/ghpvc/?username=rahulkanagaraj786&color=blueviolet)
+[Portfolio](https://rahul-kanagaraj.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rahulkanagaraj/) &nbsp;·&nbsp; [Email](mailto:rahulkanagaraj@outlook.com)
 
----
+## Experience
 
-### 📊 GitHub Stats
+### Platform9
 
-<div align="center">
+*Software Engineering Intern · Private Cloud Director · June 2026–present*
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rahulkanagaraj786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+I develop and debug the workflows that install and upgrade private clouds across Kubernetes, OpenStack, and Linux. My work on production deployments improved the efficiency of those workflows by **nearly 50%**.
 
-</div>
+### Hewlett Packard Enterprise
 
----
+*Software Engineer, R&D · HPE Alletra Storage · 2022–2025*
 
-### 💻 Most Used Languages
+- **Event processing.** I built the infrastructure that routes S3 events for the Alletra Storage MP X10000. Python workers, Kafka, and gRPC on Kubernetes handled **10,000+ events per minute at sub-second latency**, triggering metadata extraction and vector embedding generation.
+- **Cluster setup and failover.** I built Go services for node discovery and configuration that cut setup time by **30%**. I also integrated Keepalived and VRRP so storage services could fail over when a node or network link went down.
+- **Production debugging.** I added network counters across the storage stack, cutting the time support engineers spent debugging incidents by **40%**.
 
-<div align="center">
+## Selected projects
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulkanagaraj786&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook,HTML&langs_count=8&hide_border=true)
+### [Dev2Prod](https://github.com/sanjayb-28/Dev2Prod)
 
-</div>
+Sanjay Baskaran and I built a Kubernetes lab where we could restart pods with Chaos Mesh and measure how scaling and caching affected p95 latency under k6 load tests. One burst test exposed a PostgreSQL connection bottleneck. We fixed it by pooling connections and keeping cache hits off the database. [Project write-up](https://devpost.com/software/dev2prod)
 
----
-
-### 💭 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulkanagaraj)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulkanagaraj786)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkanagaraj@outlook.com)
-
-</div>
+| Project | What I worked on |
+| --- | --- |
+| [ResMCP](https://github.com/apache/resilientdb/tree/master/ecosystem/ai-tools/mcp/resilientdb-mcp) | Co-built the Model Context Protocol server now in Apache ResilientDB. Agents can submit transactions through GraphQL and read or write key-value data over HTTP. |
+| [MCPShield](https://github.com/rahulkanagaraj786/mcp-security-analysis) | Built a security layer for MCP clients and servers, including file-path validation and checks on untrusted plugins. |
+| [LLM routing study](https://github.com/rahulkanagaraj786/llm-routing-study) | Trained a router to choose between GPT-5 and Gemini 2.5 Flash from the prompt alone, then measured the cost and accuracy of those choices on held-out questions. |
